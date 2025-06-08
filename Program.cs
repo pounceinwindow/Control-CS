@@ -53,7 +53,7 @@ class Node
     string id { get; set; }
     public Node(string Id) { id = Id; }
 
-    public static void Add() { }
+    public static void Add() { } //ориентированный граф бееееее
 }
 class PluginnGraphBuilder
 {
